@@ -1,4 +1,7 @@
 # DMAASD-privacy-policy
 
-Privacy policy -> index.html
-Support page   -> support.html
+## Privacy Policy (index.html)
+URL: https://megulo25.github.io/DMAASD-privacy-policy
+
+## Support Page (support.html)
+URL: https://megulo25.github.io/DMAASD-privacy-policy/support
