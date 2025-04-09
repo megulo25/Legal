@@ -2,29 +2,28 @@
 
 This repo will house all links related to legal stuff for each project
 
-# DMAASD-privacy-policy
+# DMAASD
 
-### Privacy policy
+privacy policy: https://megulo25.github.io/Legal/DMAASD/privacy
 
-URL: https://megulo25.github.io/Legal/DMAASD/privacy
-
-### Support page
-
-URL: https://megulo25.github.io/Legal/DMAASD/support
+support page: https://megulo25.github.io/Legal/DMAASD/support
 
 ### Delete account page
 
-URL: https://megulo25.github.io/Legal/DMAASD/deleteAccount
+https://megulo25.github.io/Legal/DMAASD/deleteAccount
 
 - This simple webpage has been created because Google Play requires a link to steps on how to delete your account
 - This webpage will simply illustrate the steps to deleting your account and data.
 
 # Addis Tab
+privacy policy: https://megulo25.github.io/Legal/AddisTab/privacy
 
-### Privacy policy
+terms and conditions: https://megulo25.github.io/Legal/AddisTab/termsAndConditions
 
-URL: https://megulo25.github.io/Legal/AddisTab/privacy
+# GitWise
 
-### Terms and Conditions
+privacy policy: https://megulo25.github.io/Legal/GitWise/privacy
 
-URL: https://megulo25.github.io/Legal/AddisTab/termsAndConditions
+support page: https://megulo25.github.io/Legal/GitWise/support
+
+terms and conditions: https://megulo25.github.io/Legal/GitWise/tos
