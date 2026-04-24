@@ -27,3 +27,8 @@ privacy policy: https://megulo25.github.io/Legal/GitWise/privacy
 support page: https://megulo25.github.io/Legal/GitWise/support
 
 terms and conditions: https://megulo25.github.io/Legal/GitWise/tos
+
+# Virtual Line
+privacy policy:
+
+terms and conditions: 
